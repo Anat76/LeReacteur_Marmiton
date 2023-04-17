@@ -50,9 +50,51 @@ header {
   border-bottom: solid 1px;
   border-color: #f3735f;
   height: 80px;
+  box-sizing: border-box;
 }
 
 header img {
+  margin-left: 208px;
   height: 31px;
   padding: 24px;
+}
+
+/* MAIN */
+
+body > main {
+  padding: 60px;
+}
+
+.baseline {
+  margin-top: 8px;
+  text-align: center;
+  color: #6c6c6c;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.Time {
+  height: 45px;
+  width: 400px;
+  background-color: #8a98b1;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.Time p {
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-size: 22px;
+  color: #fff;
+}
+
+/* IMG */
+div > img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  /* margin: 60px 8px; */
+  margin: 9px;
+  margin-top: 60px;
 }
