@@ -98,3 +98,10 @@ div > img {
   margin: 9px;
   margin-top: 60px;
 }
+
+div > ul {
+  color: #6c6c6c;
+  size: 16px;
+  line-height: 22px;
+  margin-left: 15px;
+}
