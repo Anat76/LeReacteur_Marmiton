@@ -1,0 +1,58 @@
+/* GENERAL */
+
+body {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  background-color: #efefef;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  padding: 60px 30px;
+  border-radius: 20px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 22px;
+}
+
+/* Headers */
+
+header {
+  background-color: white;
+  border-bottom: solid 1px;
+  border-color: #f3735f;
+  height: 80px;
+}
+
+header img {
+  height: 31px;
+  padding: 24px;
+}
