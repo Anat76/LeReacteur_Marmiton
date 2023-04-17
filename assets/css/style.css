@@ -105,3 +105,8 @@ div > ul {
   line-height: 22px;
   margin-left: 15px;
 }
+
+footer {
+  text-align: center;
+  padding: 60px;
+}
